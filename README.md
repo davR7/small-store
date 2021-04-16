@@ -1,4 +1,5 @@
 # small-store
+This store was created to support small projects. Vue.observable is used to manage the state, functions that have a return are placed in the getters property and the handlers in mutations.
 
 ## Project setup
 ```
